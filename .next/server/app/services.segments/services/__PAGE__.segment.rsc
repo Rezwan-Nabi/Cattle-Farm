@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/42onvq6nokjl2.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/_next/static/chunks/1hfl4nwbx58n_.js"
+c:I[62319,["$2","$b"],"default"]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$2"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+:HL["/_next/static/chunks/03mbcgquxd5zt.css","style"]
+:HL["/images/services-cattle-barn.png","image"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"services-page","children":[["$","$Lc",null,{}],["$","section",null,{"id":"services","className":"services section","children":[["$","div",null,{"className":"section-label","children":[["$","span",null,{"children":"03"}],["$","span",null,{"children":"WHAT WE DO"}]]}],["$","div",null,{"className":"services-heading","children":["$","h2",null,{"children":["From pasture",["$","br",null,{}],["$","span",null,{"children":"to possibility."}]]}]}],["$","div",null,{"className":"services-list","children":[["$","div","01",{"className":"service-item","children":[["$","span",null,{"className":"service-number","children":"01"}],["$","h3",null,{"children":"Cattle Breeding"}],["$","p",null,{"children":"Carefully managed breeding programs focused on strong genetics and healthy livestock."}],["$","span",null,{"className":"service-arrow","children":"↗"}]]}],["$","div","02",{"className":"service-item","children":[["$","span",null,{"className":"service-number","children":"02"}],["$","h3",null,{"children":"Livestock Trading"}],["$","p",null,{"children":"Reliable cattle sourcing and livestock trading for farms and agricultural businesses."}],["$","span",null,{"className":"service-arrow","children":"↗"}]]}],["$","div","03",{"className":"service-item","children":[["$","span",null,{"className":"service-number","children":"03"}],["$","h3",null,{"children":"Farm Management"}],["$","p",null,{"children":"Modern farming practices designed to improve animal health and operational efficiency."}],["$","span",null,{"className":"service-arrow","children":"↗"}]]}],["$","div","04",{"className":"service-item","children":[["$","span",null,{"className":"service-number","children":"04"}],["$","h3",null,{"children":"Consultation"}],["$","p",null,{"children":"Practical agricultural guidance for cattle farmers and livestock businesses."}],["$","span",null,{"className":"service-arrow","children":"↗"}]]}]]}]]}],["$","div",null,{"className":"services-page-image","children":["$","img",null,{"src":"/images/services-cattle-barn.png","alt":"Cattle inside a modern farm barn"}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"className":"logo","children":[["$","span",null,{"children":"GREEN"}],["$","strong",null,{"children":"PASTURES"}]]}],["$","p",null,{"children":"Responsible cattle farming for a better tomorrow."}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":"© 2026 Green Pastures Farm"}],["$","div",null,{"children":[["$","a",null,{"href":"#","children":"Instagram"}],["$","a",null,{"href":"#","children":"Facebook"}],["$","a",null,{"href":"#","children":"LinkedIn"}]]}]]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1hfl4nwbx58n_.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$6"}}]]
+7:[["children",{"s":"services","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/03mbcgquxd5zt.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/42onvq6nokjl2.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Green Pastures | Cattle Farm"}],["$","meta","1",{"name":"description","content":"Premium cattle farming, livestock and sustainable agriculture."}]]}]}],null]}],null]}],"p":"$@15","v":null,"s":"$6"}},"a":"$@16","u":"$@17","b":"ENsrZ7pJ59XKnzZTGo8oL"}
+f:null
+6:300
+17:true
+6:C
+16:0
+8:"$undefined"
+5:"$undefined"
+15:"$undefined"
+10:"$undefined"

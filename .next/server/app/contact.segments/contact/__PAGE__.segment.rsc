@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/42onvq6nokjl2.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/_next/static/chunks/1hfl4nwbx58n_.js"
+c:I[62319,["$2","$b"],"default"]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$2"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+:HL["/_next/static/chunks/03mbcgquxd5zt.css","style"]
+:HL["https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=2400&q=90","image"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"contact-page","children":[["$","$Lc",null,{}],["$","section",null,{"id":"contact","className":"contact section contact-section","children":[["$","div",null,{"className":"contact-content","children":[["$","span",null,{"className":"eyebrow","children":"LET'S TALK"}],["$","h2",null,{"children":["Looking for quality",["$","br",null,{}],["$","span",null,{"children":"livestock?"}]]}],["$","p",null,{"children":"Get in touch with our team to learn more about our cattle, services and farming operations."}],["$","a",null,{"href":"mailto:hello@greenpastures.com","className":"primary-button","children":"Contact us →"}]]}],["$","div",null,{"className":"contact-image","children":["$","img",null,{"src":"https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=2400&q=90","alt":"Cattle herd in a pasture"}]}]]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"className":"logo","children":[["$","span",null,{"children":"GREEN"}],["$","strong",null,{"children":"PASTURES"}]]}],["$","p",null,{"children":"Responsible cattle farming for a better tomorrow."}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":"© 2026 Green Pastures Farm"}],["$","div",null,{"children":[["$","a",null,{"href":"#","children":"Instagram"}],["$","a",null,{"href":"#","children":"Facebook"}],["$","a",null,{"href":"#","children":"LinkedIn"}]]}]]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1hfl4nwbx58n_.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$6"}}]]
+7:[["children",{"s":"contact","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/03mbcgquxd5zt.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/42onvq6nokjl2.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Green Pastures | Cattle Farm"}],["$","meta","1",{"name":"description","content":"Premium cattle farming, livestock and sustainable agriculture."}]]}]}],null]}],null]}],"p":"$@15","v":null,"s":"$6"}},"a":"$@16","u":"$@17","b":"ENsrZ7pJ59XKnzZTGo8oL"}
+f:null
+6:300
+17:true
+6:C
+16:0
+8:"$undefined"
+5:"$undefined"
+15:"$undefined"
+10:"$undefined"
