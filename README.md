@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Green Pastures Cattle Farm
 
 Premium cattle farm website built with Next.js, TypeScript and Framer Motion.
@@ -21,6 +20,4 @@ To use your own photos instead:
 2. In `app/globals.css` (`.hero` background) and in `components/Hero.tsx`, `About.tsx`, `Sustainability.tsx`, `Livestock.tsx`, replace the `https://images...` URLs with local paths like `/images/cattle-hero.jpg`.
 
 The original placeholder SVGs are still in `public/images/` if you want to fall back to them.
-=======
-# Cattle-Farm
->>>>>>> a7ac402fbcd381ebf055596c95be28a221487803
+
